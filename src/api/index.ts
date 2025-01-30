@@ -1,4 +1,3 @@
-import { authOptions } from '@/config/AuthOptions'
 import useAxiosHandler from '@/hooks/useAxiosHandler'
 import axios from 'axios'
 
